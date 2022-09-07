@@ -1,4 +1,4 @@
-Start of the project following the Master's thesis for the beginning of the Ph.D thesis.
+Start of the project following the Master's thesis : beginning of the Ph.D thesis.
 
 I consider now the physics of an extended lattice of quasi 1-D rhombic chain of interacting bosons in presence of a pi-flux per plaquette. With this geometry, the dispersion relation also presents flat bands with Aharonov-Bohm caging occuring even in the non-linear regime for the Gross-Pitaevskii equation. The fully quantum regime is still to be understood and the dynamic had been simulated with exact diagonalisation. A mapping toward two coupled pendulum could be made in principle but is extremely challenging. 
 The main goal of this project here is to caracterise the condesnation on such a lattice. For the BBH model, it was quite easy because one could consider from the dispersion relation centered on the Gamma point that the ground state of the system was a uniform condensate. Here, since the dispersion relation is completely flat, no conclusion can be made considering the form of the ground state. A study of the first excitations will after be made.
